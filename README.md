@@ -26,6 +26,6 @@ Automatisiert die komplette Installation von NamelessMC auf einem Debian 12 Serv
 ## 🚀 Verwendung
 
 ```bash
-wget https://raw.githubusercontent.com/CryptixMCNetwork/Setups/main/nlmc.sh
+wget https://raw.githubusercontent.com/CryptixMCNetwork/Setups/main/nlmc.sh -O install_namelessmc.sh
 chmod +x install_namelessmc.sh
 sudo ./install_namelessmc.sh
